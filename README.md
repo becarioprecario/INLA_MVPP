@@ -14,4 +14,4 @@ Fernandez-Navarro.
 
 * Folder `case_study`: Includes the files to reproduce the case study developed in the paper. Note that a simulated dataset (from the original data) is provided as the real dataset cannot be distributed due to confidentiality issues.
 
-* Folder `simulation_study`: Simulated datasets and R code to run the simulation study described in the paper.
+* Folder `simulation`: Simulated datasets and R code to run the simulation study described in the paper.
