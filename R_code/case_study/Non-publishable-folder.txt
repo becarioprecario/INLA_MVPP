@@ -1,0 +1,5 @@
+* This file replaces a folder (of the same name) that included the original data and that have been used to create the simulated data. Original data is not distributed due to confidentiality issues.
+
+* Cases and controls have been simulated using the estimated intensity of the corresponding point pattern. These are the simulated data published on GitHub when the paper was first submitted.
+
+* Census data have been re-scaled so that the original data are not distributed. These new values have been matched to the point patterns to complete the dataset before the analysis.

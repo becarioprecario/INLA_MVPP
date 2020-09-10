@@ -1,0 +1,1 @@
+* This file replaces an Rdata (of the same name) that included the original data and that have been used to create the simulated data. Original data is not distributed due to confidentiality issues.
